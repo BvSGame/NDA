@@ -8,10 +8,10 @@ by core contributors and only as a result of collective deliberation.
 2. Without discussion with other contributors AND explicit permission from the
 core contributors, it’s forbidden to disclose anything from the following
 resources (private resources):
-	- Private channels on Discord server: https://discord.gg/Yu7g46hgzk
-	- Private repositories on GitHub organization: https://github.com/BvSGame
-	- Direct messages
-	- Private group chats (e.g. channels on other Discord servers)
+    - Private channels on Discord server: https://discord.gg/Yu7g46hgzk
+    - Private repositories on GitHub organization: https://github.com/BvSGame
+    - Direct messages
+    - Private group chats (e.g. channels on other Discord servers)
 
 3. It’s important to follow Non-Disclosure Agreement if you have or ever had
 access to the aforementioned resources, even if you’re no longer an active
@@ -33,6 +33,8 @@ recreate code, rewrite scripts, even if it’s done from scratch.
 
 7. Non-Disclosure Agreement is subject to change during project development.
 Everyone will be notified about these changes in the public resources.
+History of changes can be found here:
+https://github.com/BvSGame/NDA/commits/main/README.md
 
 8. Wherever there is private content that should not be disclosed, copy the
 contents of this file without any changes.
