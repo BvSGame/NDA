@@ -1,6 +1,6 @@
 Non-Disclosure Agreement (NDA) for “Bombs vs. Sleepwalkers” project
 
-Version: 14 October 2024
+Version: 14 October 2024              ••••              Updated: 16 October 2024
 
 1. Exceptions to each rule mentioned in this document can only be established
 by core contributors and only as a result of collective deliberation.
