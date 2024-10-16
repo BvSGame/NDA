@@ -36,5 +36,5 @@ Everyone will be notified about these changes in the public resources.
 History of changes can be found here:
 https://github.com/BvSGame/NDA/commits/main/README.md
 
-8. Wherever there is private content that should not be disclosed, copy the
-contents of this file without any changes.
+8. Wherever there is private content that should not be disclosed, copy this
+document without any changes.
